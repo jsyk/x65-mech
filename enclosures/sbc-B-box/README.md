@@ -15,5 +15,5 @@ Test-print done with Prusa MK4 in PETG.
     4x M3x25 bolt
 
 ## TBD improvements:
-- the holes for M3 nuts in the bottom part should be hexagonal to prevent nut rotation during screwing.
-- round off the vertical edges, less sharp.
+- the holes for M3 nuts in the bottom part should be hexagonal to prevent nut rotation during screwing => DONE in v3.
+- round off the vertical edges, less sharp => DONE in v3.
